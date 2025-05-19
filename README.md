@@ -2,6 +2,8 @@ This project was developed with Laravel and Vue (InertiaJs). It is a small leagu
 
 Commands required to run the project after cloning.
 
+- Copy .env.example as .env
+
 - composer install
 - npm install
 - php artisan migrate:fresh
