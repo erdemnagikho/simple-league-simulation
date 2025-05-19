@@ -14,3 +14,7 @@ For running projects:
 - npm run dev
 
 For login, you can use admin@test.com, it's password is password.
+
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
