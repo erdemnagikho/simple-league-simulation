@@ -13,6 +13,8 @@ class TeamsSeeder extends Seeder
      */
     public function run(): void
     {
+        smartCache()->del(Team::ALL_TEAMS_CACHE_KEY);
+
         $teams = [
             [
                 'name' => 'Liverpool',
